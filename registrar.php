@@ -45,7 +45,7 @@ echo '<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 		</div>
 
 		<div class="form-group">
-			<button type="submit" name="enviar" value="si"  class="btn btn-dark">Crear Usuario</button>
+			<button type="button" name="enviar" value="si"  class="btn btn-dark">Crear Usuario</button>
 		</div>
 	</form>
 </div>
